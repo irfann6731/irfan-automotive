@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk menyediakan media informasi digital bagi pemilik kend
 
 ## Fitur Utama
 
-1. Katalog Layanan: Informasi mendetail mengenai layanan servis seperti penggantian oli, penggantian ban, dan servis rutin berkala.
+1. Katalog Layanan: Informasi mengenai layanan servis seperti penggantian oli, penggantian ban, dan servis rutin berkala.
 2. Daftar Harga Transparan: Rincian biaya untuk setiap paket layanan guna memberikan kepastian harga bagi calon pelanggan.
 3. Sistem Konfirmasi Pesanan: Integrasi pembayaran menggunakan sistem QRIS dan konfirmasi langsung melalui aplikasi WhatsApp untuk mempermudah transaksi.
 4. Desain Responsif: Pengoptimalan tampilan menggunakan kerangka kerja Bootstrap sehingga website tetap fungsional di berbagai ukuran layar.
